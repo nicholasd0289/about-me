@@ -4,12 +4,13 @@ I was born and raised in Brooklyn, New York, in a neighborhood called **Sunset P
 ---
 # Things that I enjoy
  
-1. ##### Hanging out with friends
-2. ##### Spending time with my family
-3. ##### Playing sports
-4. ##### Playing videogames
+1.   Hanging out with friends
+2.   Spending time with my family
+3.   Playing sports
+4.   Playing videogames
 
-# Things I don't enjoy
-* ###### Rocky Road ice cream
-* ###### Bugs (specifically roaches)
-* ###### Muggy weather
+## Things I don't enjoy
+
+*   Rocky Road Ice Cream
+*   Bugs (specifically roaches)
+*   Muggy weather
