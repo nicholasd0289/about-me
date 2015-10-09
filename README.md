@@ -11,6 +11,6 @@ I was born and raised in Brooklyn, New York, in a neighborhood called **Sunset P
 
 ## Things I don't enjoy
 
-*   Rocky Road Ice Cream
-*   Bugs (specifically roaches)
-*   Muggy weather
+  *   Rocky Road Ice Cream
+  *   Bugs (specifically roaches)
+  *   Muggy weather
